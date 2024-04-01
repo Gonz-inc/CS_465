@@ -1,5 +1,6 @@
 #macOS dot underscore files.
 ._*
+
 # Logs
 logs
 *.log
