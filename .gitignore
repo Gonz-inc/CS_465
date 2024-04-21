@@ -1,6 +1,9 @@
 #macOS dot underscore files.
 ._*
 
+# dotenv files ingnored. 
+.env
+
 # Logs
 logs
 *.log
